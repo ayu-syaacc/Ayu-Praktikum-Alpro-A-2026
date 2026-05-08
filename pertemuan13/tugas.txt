@@ -1,0 +1,5 @@
+Belajar Python hari ini:
+1. file handling
+2. read files
+3. write/create files
+4. delete files
